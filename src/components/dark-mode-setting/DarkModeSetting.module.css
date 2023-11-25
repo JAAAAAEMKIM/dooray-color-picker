@@ -1,0 +1,12 @@
+.darkmode {
+  display: flex;
+
+  align-items: center;
+}
+
+.darkmode .label {
+  font-size: 16px;
+  font-weight: 600;
+  width: 90px;
+  text-align: left;
+}

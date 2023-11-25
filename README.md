@@ -1,3 +1,8 @@
+# Dooray Color Picker (WIP)
+
+두레이 색상을 커스터마이징하게 해주는 extension.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
